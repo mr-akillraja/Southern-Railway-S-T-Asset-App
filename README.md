@@ -28,8 +28,8 @@ This is a mobile application built with Flutter and Firebase for managing assets
 - **Reporting**: Generate reports on asset usage, availability, and other metrics to aid decision-making.
 - **Responsive Design**: Built with Flutter's responsive design principles to provide a consistent experience across different devices and screen sizes.
 
-## Installation
-
+`## Installation
+`
 1. Clone this repository.
 2. Set up a Firebase project:
    - Go to the [Firebase Console](https://console.firebase.google.com/) and create a new project.
@@ -64,7 +64,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Credits
 
-This project was created and is maintained by M R AKILL RAJA ([Your GitHub Profile](https://github.com/mr-akillraja)).
+This project was created and is maintained by M R AKILL RAJA ([mr-akillraja](https://github.com/mr-akillraja)).
 
 ## License
 
