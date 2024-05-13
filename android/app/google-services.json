@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780979866129",
+    "project_id": "asset-management-909aa",
+    "storage_bucket": "asset-management-909aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780979866129:android:1e3c9f507de4f3460e7fb0",
+        "android_client_info": {
+          "package_name": "com.example.asset_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8sUELn8Xh5sGCPhT0H4F5g2X9TGluCn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

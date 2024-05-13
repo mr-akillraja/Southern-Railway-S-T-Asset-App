@@ -1,0 +1,387 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "A Marker Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "signalno",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "AFTC_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "station",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "AT_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "station",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Axle_Counter_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "station",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Battery_Charger_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "slno",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Block_Instrument_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "station",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "CableMeggering_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "station",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Calling_on_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "slno",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "DataLogger_RTU_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "station",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "DC Track Circuit Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "`Track Circuit No`",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "DG_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "slno",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Earthleakage_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "slno",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "EarthMeggering_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Signal_no_Location_no",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Electronic_Interlocking_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "station",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Fire_Alarm_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "station",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "HG_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "slno",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "HHG_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "slno",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "IPS_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "station",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "LevelCrossing_Gate_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "`LC No`",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Point_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "`Point no`",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "station",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Relay_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Relay_Sl_No",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "RG_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "slno",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Route_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "slno",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Shunt_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "slno",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Signal_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "`Signal No`",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Signal_Infrigement",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "station",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "SPD_Details",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "station",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "updatedAt",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
