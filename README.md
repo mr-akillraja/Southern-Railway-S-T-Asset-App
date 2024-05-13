@@ -46,10 +46,8 @@ This is a mobile application built with Flutter and Firebase for managing assets
 
 1. Register/Login to the app using your credentials.
 2. Navigate through the app to view, add, edit, or delete assets.
-3. Use the search and filter functionalities to find specific assets.
-4. Scan QR codes associated with assets for quick access.
-5. Generate reports as needed.
-6. Receive and manage notifications for important updates.
+3. Generate reports as needed.
+4. Receive and manage notifications for important updates.
 
 ## Contributing
 
